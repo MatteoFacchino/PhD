@@ -29,14 +29,14 @@ F200 = MX.sym("F200")
 
 #parameters of the evaporation process
 
-aa=0.5616
+#aa=0.5616
 bb=0.3126
 cc=48.43
 dd=0.507
 ee=55
 ff=0.1538
 gg=90
-hh=0.16
+hh=0.25
 
 M=20
 C=4
@@ -49,7 +49,7 @@ X1=5
 
 #constraints values
 X2_min=25
-X2_max=100
+X2_max=130
 P2_max=80
 P2_min=40
 P100_min=100
